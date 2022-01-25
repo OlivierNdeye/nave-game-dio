@@ -80,6 +80,7 @@ background-image:url(../img/apache.png);
 
 }
 
+
 .anima1 {
 	background-image:url(../img/helicoptero.png);
 	animation:play .5s steps(2) infinite;
@@ -89,6 +90,7 @@ background-image:url(../img/apache.png);
        -ms-animation: play .5s steps(2) infinite;
        -o-animation: play .5s steps(2) infinite;
 }
+
 
 
 @keyframes play {
@@ -171,4 +173,19 @@ background-image:url(../img/apache.png);
 	height: 8px;
 	position: absolute;
 	background-image: url(../img/disparo.png);
+}
+
+
+#explosao1 {
+	width:15px;
+	height:87px;
+	position:absolute;
+
+}
+
+#explosao2 {
+	width:15px;
+	height:87px;
+	position:absolute;
+	
 }
