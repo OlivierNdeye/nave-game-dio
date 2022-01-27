@@ -102,7 +102,7 @@ musica.play();
 
 
 
-     if (topo >= 434) { 
+     if (topo >= 534) { 
      $("#jogador").css("top",topo-10);
     
         }
