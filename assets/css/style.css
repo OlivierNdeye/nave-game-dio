@@ -25,7 +25,7 @@ body {
 #fundoGame {
 	width:950px;
 	height:630px;
-	background-image:url(../img/fundo_game.jpg);
+	background-image:url(../img/Mission1.jpg);
 	border-color:#FFF;
 	border-style:solid;
 }
@@ -55,7 +55,7 @@ background-image:url(../img/apache.png);
 	height: 70px;
 	position: absolute;
 	left: 775px;
-	top: 447px;
+	top: 547px;
 	background-image: url(../img/inimigo2.png);
 }
 
@@ -64,7 +64,7 @@ background-image:url(../img/apache.png);
 	height: 51px;
 	position: absolute;
 	left: 10px;
-	top: 464px;
+	top: 564px;
 	background-image:url(../img/amigo.png);
 }
 
@@ -82,7 +82,7 @@ background-image:url(../img/apache.png);
 
 
 .anima1 {
-	background-image:url(../img/helicoptero.png);
+	background-image:url(../img/apache.png);
 	animation:play .5s steps(2) infinite;
 
        -webkit-animation: play .5s steps(2) infinite;
